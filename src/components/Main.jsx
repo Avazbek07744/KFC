@@ -51,7 +51,7 @@ const Main = () => {
     );
 
     return (
-        <div className='max-w-[1130px] mx-auto mt-6 py-10'>
+        <div className='max-w-[1130px] mx-auto mt-6 pb-10'>
             {inpute && (
                 <div className='w-[272px] shadow-[#E5E5E5] shadow rounded-full flex gap-1 px-4 transition-opacity duration-500 ease-in-out opacity-100'>
                     <img src={img1} width={23} height={23} alt="search icon" />
